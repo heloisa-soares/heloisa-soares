@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hi, I'm Heloisa
 
-<!--
-**heloisa-soares/heloisa-soares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Development student  
+💻 Full Stack focused on front-end and back-end development  
+🏢 Experience developing internal applications using Power Apps in a corporate environment (General Motors)
 
-Here are some ideas to get you started:
+### 🛠️ Technologies
+**Front-end**
+- JavaScript (ES6+)
+- Next.js
+- Bootstrap
+- HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Back-end**
+- Node.js
+- REST APIs
+- Basic database concepts
+
+**Low-Code / Enterprise**
+- Power Apps
+- Power Automate
+- SharePoint
+
+**Tools**
+- Git & GitHub
+
+### 💼 Professional Experience
+- Development of internal Power Apps solutions for business processes
+- Experience with approval flows, data management and user-based permissions
+- Projects under confidentiality (not publicly available)
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/heloisa-soares-a5520b357/
