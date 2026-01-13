@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="360" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="360" />
 </p>
 
 <p align="center">
@@ -35,5 +35,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true&hide_border=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&hide_title=true&hide_border=true" />
 </p>
