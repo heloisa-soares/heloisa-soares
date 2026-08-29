@@ -1,39 +1,92 @@
-<h2 align="center">Hi, I'm Heloisa 👋</h2>
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<!--                    HELLO • HELOISA                     -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <p align="center">
-  Software Development student focused on building modern, efficient and well-structured applications.<br/>
-  Experience with internal corporate systems and low-code solutions.
+  <img src="./banner.png" alt="Heloisa Soares" width="100%">
+</p>
+
+<br>
+
+<h2 align="center">Olá, eu sou a Heloisa! ✦</h2>
+
+<p align="center">
+  <i>Desenvolvedora apaixonada por tecnologia, automação e criação de soluções.</i>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="360" />
+  🎓 Engenharia de Software &nbsp; • &nbsp;
+  💻 Desenvolvimento &nbsp; • &nbsp;
+  ⚙️ Automação
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2F80ED&size=18&center=true&vCenter=true&width=520&lines=Software+Development;Web+and+Enterprise+Applications;Clean+Code+and+Practical+Solutions" />
-</p>
+<br>
 
 ---
 
-### 🛠 Technologies
+### 𐙚 Sobre mim
+
+Sou estudante de **Engenharia de Software** e técnica em **Desenvolvimento de Sistemas e Eletrônica**.
+
+Gosto de transformar ideias em soluções digitais, unindo desenvolvimento de software, automação de processos e análise de dados.
+
+Atualmente, estou focada em evoluir minhas habilidades em **desenvolvimento Full Stack**, criando projetos cada vez mais completos, funcionais e bem estruturados.
+
+<br>
+
+### ✦ Tecnologias
+
+#### Desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs,python,java,react,nextjs,html,css,mysql&theme=light" />
+</p>
+
+#### Automação & Dados
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20Apps-F5E8E8?style=for-the-badge&logo=powerapps&logoColor=8B5E5E" />
+  <img src="https://img.shields.io/badge/Power%20Automate-F5E8E8?style=for-the-badge&logo=powerautomate&logoColor=8B5E5E" />
+  <img src="https://img.shields.io/badge/Power%20BI-F5E8E8?style=for-the-badge&logo=powerbi&logoColor=8B5E5E" />
+  <img src="https://img.shields.io/badge/SQL-F5E8E8?style=for-the-badge&logo=mysql&logoColor=8B5E5E" />
+</p>
+
+<br>
+
+### ♡ Em constante evolução
+
+```text
+Desenvolvimento Full Stack
+Automação de processos
+Banco de dados
+Integração de sistemas
+UI & UX
+```
+
+<br>
+
+### ☁︎ Vamos nos conectar?
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nextjs,html,css,bootstrap,nodejs,git,github&theme=light" />
+
+<a href="https://www.linkedin.com/in/heloisa-soares-a5520b357/">
+  <img src="https://img.shields.io/badge/LinkedIn-F5E8E8?style=for-the-badge&logo=linkedin&logoColor=8B5E5E" />
+</a>
+
+<a href="mailto:heloisasfg@icloud.com">
+  <img src="https://img.shields.io/badge/Email-F5E8E8?style=for-the-badge&logo=gmail&logoColor=8B5E5E" />
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+  <i>“Transformando ideias em soluções através da tecnologia.”</i>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=powerapps,sharepoint&theme=light" />
-</p>
-
----
-
-### 💼 Experience
-- Development of internal applications using **Power Apps** in a corporate environment  
-- Creation of approval flows, data management and permission control  
-- Projects under confidentiality (not publicly available)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&hide_title=true&hide_border=true" />
+  ♡
 </p>
